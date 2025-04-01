@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|c:\\users\\funes\\source\\repos\\tribunaldepoche\\tribunaldepoche\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|solutionrelative:tribunaldepoche\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|c:\\users\\funes\\source\\repos\\tribunaldepoche\\tribunaldepoche\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|solutionrelative:tribunaldepoche\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|c:\\users\\funes\\source\\repos\\tribunaldepoche\\tribunaldepoche\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|solutionrelative:tribunaldepoche\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|c:\\users\\funes\\source\\repos\\tribunaldepoche\\tribunaldepoche\\pages\\celebrities\\celebritydetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|solutionrelative:tribunaldepoche\\pages\\celebrities\\celebritydetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|c:\\users\\funes\\source\\repos\\tribunaldepoche\\tribunaldepoche\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|solutionrelative:tribunaldepoche\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|c:\\users\\funes\\source\\repos\\tribunaldepoche\\tribunaldepoche\\pages\\predictions\\submitprediction.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|solutionrelative:tribunaldepoche\\pages\\predictions\\submitprediction.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|c:\\users\\funes\\source\\repos\\tribunaldepoche\\tribunaldepoche\\pages\\predictions\\submitprediction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|solutionrelative:tribunaldepoche\\pages\\predictions\\submitprediction.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|c:\\users\\funes\\source\\repos\\tribunaldepoche\\tribunaldepoche\\pages\\comments\\submitcomment.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|solutionrelative:tribunaldepoche\\pages\\comments\\submitcomment.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|c:\\users\\funes\\source\\repos\\tribunaldepoche\\tribunaldepoche\\pages\\comments\\submitcomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|solutionrelative:tribunaldepoche\\pages\\comments\\submitcomment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|c:\\users\\funes\\source\\repos\\tribunaldepoche\\tribunaldepoche\\pages\\celebrities\\celebritydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|solutionrelative:tribunaldepoche\\pages\\celebrities\\celebritydetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|c:\\users\\funes\\source\\repos\\tribunaldepoche\\tribunaldepoche\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|solutionrelative:tribunaldepoche\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|c:\\users\\funes\\source\\repos\\tribunaldepoche\\tribunaldepoche\\models\\trial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|solutionrelative:tribunaldepoche\\models\\trial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|c:\\users\\funes\\source\\repos\\tribunaldepoche\\tribunaldepoche\\models\\prediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|solutionrelative:tribunaldepoche\\models\\prediction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|c:\\users\\funes\\source\\repos\\tribunaldepoche\\tribunaldepoche\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|solutionrelative:tribunaldepoche\\models\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|c:\\users\\funes\\source\\repos\\tribunaldepoche\\tribunaldepoche\\models\\celebrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|solutionrelative:tribunaldepoche\\models\\celebrity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|c:\\users\\funes\\source\\repos\\tribunaldepoche\\tribunaldepoche\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|solutionrelative:tribunaldepoche\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|c:\\users\\funes\\source\\repos\\tribunaldepoche\\tribunaldepoche\\pages\\trials\\trialdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|solutionrelative:tribunaldepoche\\pages\\trials\\trialdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|c:\\users\\funes\\source\\repos\\tribunaldepoche\\tribunaldepoche\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|solutionrelative:tribunaldepoche\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|c:\\users\\funes\\source\\repos\\tribunaldepoche\\tribunaldepoche\\pages\\trials\\trialdetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57FFE363-E7E3-403D-A0B8-6900B5C09EBD}|TribunalDePoche\\TribunalDePoche.csproj|solutionrelative:tribunaldepoche\\pages\\trials\\trialdetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\docker-compose.yml",
+              "RelativeDocumentMoniker": "TribunalDePoche\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\docker-compose.yml",
+              "RelativeToolTip": "TribunalDePoche\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-04-01T18:53:18.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Trial.cs",
+              "DocumentMoniker": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Models\\Trial.cs",
+              "RelativeDocumentMoniker": "TribunalDePoche\\Models\\Trial.cs",
+              "ToolTip": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Models\\Trial.cs",
+              "RelativeToolTip": "TribunalDePoche\\Models\\Trial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:59:49.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TribunalDePoche\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Models\\User.cs",
+              "RelativeToolTip": "TribunalDePoche\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:59:12.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CelebrityDetails.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Pages\\Celebrities\\CelebrityDetails.cshtml.cs",
+              "RelativeDocumentMoniker": "TribunalDePoche\\Pages\\Celebrities\\CelebrityDetails.cshtml.cs",
+              "ToolTip": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Pages\\Celebrities\\CelebrityDetails.cshtml.cs",
+              "RelativeToolTip": "TribunalDePoche\\Pages\\Celebrities\\CelebrityDetails.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:12:47.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SubmitComment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Pages\\Comments\\SubmitComment.cshtml",
+              "RelativeDocumentMoniker": "TribunalDePoche\\Pages\\Comments\\SubmitComment.cshtml",
+              "ToolTip": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Pages\\Comments\\SubmitComment.cshtml",
+              "RelativeToolTip": "TribunalDePoche\\Pages\\Comments\\SubmitComment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T18:21:06.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubmitComment.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Pages\\Comments\\SubmitComment.cshtml.cs",
+              "RelativeDocumentMoniker": "TribunalDePoche\\Pages\\Comments\\SubmitComment.cshtml.cs",
+              "ToolTip": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Pages\\Comments\\SubmitComment.cshtml.cs",
+              "RelativeToolTip": "TribunalDePoche\\Pages\\Comments\\SubmitComment.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:21:34.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubmitPrediction.cshtml",
+              "DocumentMoniker": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Pages\\Predictions\\SubmitPrediction.cshtml",
+              "RelativeDocumentMoniker": "TribunalDePoche\\Pages\\Predictions\\SubmitPrediction.cshtml",
+              "ToolTip": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Pages\\Predictions\\SubmitPrediction.cshtml",
+              "RelativeToolTip": "TribunalDePoche\\Pages\\Predictions\\SubmitPrediction.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T18:19:07.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubmitPrediction.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Pages\\Predictions\\SubmitPrediction.cshtml.cs",
+              "RelativeDocumentMoniker": "TribunalDePoche\\Pages\\Predictions\\SubmitPrediction.cshtml.cs",
+              "ToolTip": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Pages\\Predictions\\SubmitPrediction.cshtml.cs",
+              "RelativeToolTip": "TribunalDePoche\\Pages\\Predictions\\SubmitPrediction.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:19:22.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\appsettings.json",
+              "RelativeDocumentMoniker": "TribunalDePoche\\appsettings.json",
+              "ToolTip": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\appsettings.json",
+              "RelativeToolTip": "TribunalDePoche\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T18:36:59.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Program.cs",
+              "RelativeDocumentMoniker": "TribunalDePoche\\Program.cs",
+              "ToolTip": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Program.cs",
+              "RelativeToolTip": "TribunalDePoche\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:54:03.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CelebrityDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Pages\\Celebrities\\CelebrityDetails.cshtml",
+              "RelativeDocumentMoniker": "TribunalDePoche\\Pages\\Celebrities\\CelebrityDetails.cshtml",
+              "ToolTip": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Pages\\Celebrities\\CelebrityDetails.cshtml",
+              "RelativeToolTip": "TribunalDePoche\\Pages\\Celebrities\\CelebrityDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T18:12:16.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "TribunalDePoche\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "TribunalDePoche\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:22:45.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Prediction.cs",
+              "DocumentMoniker": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Models\\Prediction.cs",
+              "RelativeDocumentMoniker": "TribunalDePoche\\Models\\Prediction.cs",
+              "ToolTip": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Models\\Prediction.cs",
+              "RelativeToolTip": "TribunalDePoche\\Models\\Prediction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:00:35.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Models\\Comment.cs",
+              "RelativeDocumentMoniker": "TribunalDePoche\\Models\\Comment.cs",
+              "ToolTip": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Models\\Comment.cs",
+              "RelativeToolTip": "TribunalDePoche\\Models\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:00:53.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Celebrity.cs",
+              "DocumentMoniker": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Models\\Celebrity.cs",
+              "RelativeDocumentMoniker": "TribunalDePoche\\Models\\Celebrity.cs",
+              "ToolTip": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Models\\Celebrity.cs",
+              "RelativeToolTip": "TribunalDePoche\\Models\\Celebrity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:59:32.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TribunalDePoche\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TribunalDePoche\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA0wAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T17:57:15.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TrialDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Pages\\Trials\\TrialDetails.cshtml",
+              "RelativeDocumentMoniker": "TribunalDePoche\\Pages\\Trials\\TrialDetails.cshtml",
+              "ToolTip": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Pages\\Trials\\TrialDetails.cshtml",
+              "RelativeToolTip": "TribunalDePoche\\Pages\\Trials\\TrialDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T18:17:45.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "TribunalDePoche\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Pages\\Index.cshtml",
+              "RelativeToolTip": "TribunalDePoche\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T18:05:17.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TrialDetails.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Pages\\Trials\\TrialDetails.cshtml.cs",
+              "RelativeDocumentMoniker": "TribunalDePoche\\Pages\\Trials\\TrialDetails.cshtml.cs",
+              "ToolTip": "C:\\Users\\Funes\\source\\repos\\TribunalDePoche\\TribunalDePoche\\Pages\\Trials\\TrialDetails.cshtml.cs",
+              "RelativeToolTip": "TribunalDePoche\\Pages\\Trials\\TrialDetails.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:24:33.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

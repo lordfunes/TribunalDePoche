@@ -1,0 +1,12 @@
+﻿@page "{id:int}"
+@model TribunalDePoche.Pages.Comments.SubmitCommentModel
+@{
+    ViewData["Title"] = "Submit Comment";
+}
+
+<h2>Leave a Comment</h2>
+<form method="post">
+    <input type="hidden" asp-for="Comment.TrialId" />
+    <textarea asp-for="Comment.Content" required></textarea><br />
+    <button type="submit">Submit</button>
+</form>

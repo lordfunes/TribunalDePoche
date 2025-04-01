@@ -1,0 +1,14 @@
+﻿@page "{id:int}"
+@model TribunalDePoche.Pages.Predictions.SubmitPredictionModel
+@{
+    ViewData["Title"] = "Submit Prediction";
+}
+
+<h2>Submit a Prediction</h2>
+<form method="post">
+    <input type="hidden" asp-for="Prediction.TrialId" />
+    <label>Fine Amount:</label> <input type="number" asp-for="Prediction.PredictedFine" required /><br />
+    <label>Suspended Sentence (years):</label> <input type="number" asp-for="Prediction.PredictedSuspendedSentence" required /><br />
+    <label>Prison Sentence (years):</label> <input type="number" asp-for="Prediction.PredictedPrisonSentence" required /><br />
+    <button type="submit">Submit</button>
+</form>

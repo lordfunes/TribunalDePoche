@@ -1,0 +1,13 @@
+﻿@page
+@model TribunalDePoche.Pages.IndexModel
+@{
+    ViewData["Title"] = "Celebrities";
+}
+
+<h2>Celebrities</h2>
+<ul>
+    @foreach (var celeb in Model.Celebrities)
+    {
+        <li><a href="/CelebrityDetails?id=@celeb.Id">@celeb.Name</a></li>
+    }
+</ul>

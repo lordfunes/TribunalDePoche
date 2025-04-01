@@ -1,0 +1,28 @@
+﻿version: '3.8'
+
+services:
+  app:
+    build: .
+    container_name: tribunal_de_poche_app
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+    environment:
+      - ConnectionStrings__DefaultConnection=Host=db;Port=5432;Database=tribunal;Username=postgres;Password=postgres
+
+  db:
+    image: postgres:15
+    container_name: tribunal_de_poche_db
+    restart: always
+    environment:
+      POSTGRES_DB: tribunal
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:

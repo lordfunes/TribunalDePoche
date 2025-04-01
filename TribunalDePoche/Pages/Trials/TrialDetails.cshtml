@@ -1,0 +1,32 @@
+﻿@page "{id:int}"
+@model TribunalDePoche.Pages.Trials.TrialDetailsModel
+@{
+    ViewData["Title"] = Model.Trial.CaseName;
+}
+
+<h2>@Model.Trial.CaseName</h2>
+<p>@Model.Trial.Description</p>
+<p><strong>Status:</strong> @Model.Trial.Status</p>
+
+@if (Model.Trial.Status == "closed")
+{
+    <p><strong>Verdict:</strong> Fine: @Model.Trial.VerdictFine | Suspended: @Model.Trial.VerdictSuspendedSentence years | Prison: @Model.Trial.VerdictPrisonSentence years</p>
+}
+
+<h3>Predictions</h3>
+<ul>
+    @foreach (var prediction in Model.Predictions)
+    {
+        <li>@prediction.User.Username: Fine: @prediction.PredictedFine | Suspended: @prediction.PredictedSuspendedSentence years | Prison: @prediction.PredictedPrisonSentence years</li>
+    }
+</ul>
+<a href="/SubmitPrediction?id=@Model.Trial.Id">Submit a Prediction</a>
+
+<h3>Comments</h3>
+<ul>
+    @foreach (var comment in Model.Comments)
+    {
+        <li><strong>@comment.User.Username:</strong> @comment.Content</li>
+    }
+</ul>
+<a href="/SubmitComment?id=@Model.Trial.Id">Add a Comment</a>

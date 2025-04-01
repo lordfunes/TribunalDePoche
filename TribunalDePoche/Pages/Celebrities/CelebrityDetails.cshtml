@@ -1,0 +1,16 @@
+﻿@page "{id:int}"
+@model TribunalDePoche.Pages.Celebrities.CelebrityDetailsModel
+@{
+    ViewData["Title"] = Model.Celebrity.Name;
+}
+
+<h2>@Model.Celebrity.Name</h2>
+<p>@Model.Celebrity.Bio</p>
+
+<h3>Trials</h3>
+<ul>
+    @foreach (var trial in Model.Celebrity.Trials)
+    {
+        <li><a href="/TrialDetails?id=@trial.Id">@trial.CaseName</a> (@trial.TrialDate.ToShortDateString())</li>
+    }
+</ul>
