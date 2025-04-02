@@ -1,7 +1,3 @@
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
-using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
 using Microsoft.EntityFrameworkCore;
 using TribunalDePoche.Data;
 
@@ -14,11 +10,16 @@ namespace TribunalDePoche
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+            // Configure MySQL Database
+            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+                options.UseMySql(builder.Configuration.GetConnectionString("DefaultConnection"),
+                    new MySqlServerVersion(new Version(8, 0, 28))));
+
+            // Add services for Razor Pages
             builder.Services.AddRazorPages();
 
-            // Add database context
-            builder.Services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+            // Configure other services like authentication, etc. (optional)
+            // builder.Services.AddAuthentication(...);
 
             var app = builder.Build();
 
@@ -34,8 +35,12 @@ namespace TribunalDePoche
 
             app.UseRouting();
 
+            // Enable authentication (if configured)
+            // app.UseAuthentication();
+
             app.UseAuthorization();
 
+            // Map Razor Pages
             app.MapRazorPages();
 
             app.Run();

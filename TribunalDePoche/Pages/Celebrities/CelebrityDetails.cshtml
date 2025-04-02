@@ -1,4 +1,4 @@
-﻿@page "{id:int}"
+﻿@page "{id:int?}"
 @model TribunalDePoche.Pages.Celebrities.CelebrityDetailsModel
 @{
     ViewData["Title"] = Model.Celebrity.Name;
@@ -11,6 +11,6 @@
 <ul>
     @foreach (var trial in Model.Celebrity.Trials)
     {
-        <li><a href="/TrialDetails?id=@trial.Id">@trial.CaseName</a> (@trial.TrialDate.ToShortDateString())</li>
+        <li><a href="/Trials/TrialDetails?id=@trial.Id">@trial.CaseName</a> (@trial.TrialDate.ToShortDateString())</li>
     }
 </ul>

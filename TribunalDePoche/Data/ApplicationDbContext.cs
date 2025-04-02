@@ -24,6 +24,9 @@ namespace TribunalDePoche.Data
         {
             base.OnModelCreating(modelBuilder);
 
+            modelBuilder.Entity<User>()
+        .Property(u => u.Email)
+        .HasMaxLength(255);
             modelBuilder.Entity<User>().HasIndex(u => u.Email).IsUnique();
 
             modelBuilder.Entity<Prediction>()

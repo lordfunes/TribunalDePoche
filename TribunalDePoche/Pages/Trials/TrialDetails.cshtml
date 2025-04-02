@@ -1,4 +1,4 @@
-﻿@page "{id:int}"
+﻿@page "{id:int?}"
 @model TribunalDePoche.Pages.Trials.TrialDetailsModel
 @{
     ViewData["Title"] = Model.Trial.CaseName;
@@ -20,7 +20,7 @@
         <li>@prediction.User.Username: Fine: @prediction.PredictedFine | Suspended: @prediction.PredictedSuspendedSentence years | Prison: @prediction.PredictedPrisonSentence years</li>
     }
 </ul>
-<a href="/SubmitPrediction?id=@Model.Trial.Id">Submit a Prediction</a>
+<a href="/Predictions/SubmitPrediction?id=@Model.Trial.Id">Submit a Prediction</a>
 
 <h3>Comments</h3>
 <ul>
@@ -29,4 +29,4 @@
         <li><strong>@comment.User.Username:</strong> @comment.Content</li>
     }
 </ul>
-<a href="/SubmitComment?id=@Model.Trial.Id">Add a Comment</a>
+<a href="/Comments/SubmitComment?id=@Model.Trial.Id">Add a Comment</a>

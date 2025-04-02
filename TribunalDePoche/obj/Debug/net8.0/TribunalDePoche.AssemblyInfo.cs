@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TribunalDePoche")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ec48e2081862e93adfcded398bf9a7c4ee811f2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TribunalDePoche")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TribunalDePoche")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

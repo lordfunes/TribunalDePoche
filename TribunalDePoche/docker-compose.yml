@@ -9,20 +9,19 @@ services:
     depends_on:
       - db
     environment:
-      - ConnectionStrings__DefaultConnection=Host=db;Port=5432;Database=tribunal;Username=postgres;Password=postgres
+      - ConnectionStrings__DefaultConnection=Server=db;Port=3306;Database=tribunal;User=root;Password=root
 
   db:
-    image: postgres:15
+    image: mysql:8
     container_name: tribunal_de_poche_db
     restart: always
     environment:
-      POSTGRES_DB: tribunal
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: postgres
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: tribunal
     ports:
-      - "5432:5432"
+      - "3306:3306"
     volumes:
-      - postgres_data:/var/lib/postgresql/data
+      - mysql_data:/var/lib/mysql
 
 volumes:
-  postgres_data:
+  mysql_data:

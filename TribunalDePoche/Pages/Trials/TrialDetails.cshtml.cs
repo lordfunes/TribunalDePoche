@@ -15,8 +15,10 @@ namespace TribunalDePoche.Pages.Trials
         public async Task OnGetAsync(int id)
         {
             Trial = await _context.Trials.FirstOrDefaultAsync(t => t.Id == id);
-            Predictions = await _context.Predictions.Include(p => p.User).Where(p => p.TrialId == id).ToListAsync();
-            Comments = await _context.Comments.Include(c => c.User).Where(c => c.TrialId == id).ToListAsync();
+            //Predictions = await _context.Predictions.Include(p => p.User).Where(p => p.TrialId == id).ToListAsync();
+            Predictions = await _context.Predictions.Include(p => p.User).Where(p => p.TrialId == id) .ToListAsync();
+            //Comments = await _context.Comments.Include(c => c.User).Where(c => c.TrialId == id).ToListAsync();
+            Comments = await _context.Comments.Include(p => p.User).Where(c => c.TrialId == id).ToListAsync();
         }
     }
 }
